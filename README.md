@@ -11,7 +11,9 @@ Input infrared, visible, enhanced infrared, and enhanced visible images to gener
 
 Then using the code “Model_Test.py” generate the fused result
 
-# Usage 
+# Model Architecture
+![Model Architecture](https://user-images.githubusercontent.com/5192866/198151232-50dd7831-5684-41fe-bd27-8fdf1c329c11.jpg)
+
 # Training 
 Prepare dataset using the code “ create_training_dataset.m” from coco dataset according to the figure shown below. Then classify for training=1000000 micro patches, for test= 300,000 micro patches. 
 Then using the code “Model_training.py” train the model  
