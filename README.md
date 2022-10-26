@@ -11,7 +11,7 @@ Input infrared, visible, enhanced infrared, and enhanced visible images to gener
 
 Then using the code “Model_Test.py” generate the fused result
 
-# Model Architecture
+# Proposed method
 ![Model Architecture](https://user-images.githubusercontent.com/5192866/198151232-50dd7831-5684-41fe-bd27-8fdf1c329c11.jpg)
 
 # Training 
